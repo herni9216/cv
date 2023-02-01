@@ -1,0 +1,12 @@
+.box {
+    display:flex;
+  }
+
+  .one {
+    flex: 1 1 auto;
+  }
+
+  .two {
+    flex: 3 1 auto;
+  }
+
